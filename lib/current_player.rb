@@ -4,6 +4,7 @@ def turn_count(board)
     if spot != ' ' && spot != ''
       counter += 1
     end
+  counter
   end
 end
 
